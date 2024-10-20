@@ -1,7 +1,7 @@
 # HINATA CARDREADER Manual
 
 * [介绍&初次使用](README.md)
-* [SEGA游戏使用方法](SEGA/main.md)
+* [SEGA游戏使用方法](SEGA/README.md)
   * [串口方式连接](SEGA/serial.md)
   * [AimeIO连接](SEGA/aimeio.md)
   * [游戏内测试读卡器](SEGA/in_game_test.md)
