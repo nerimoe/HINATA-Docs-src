@@ -6,7 +6,12 @@
 
 两种方式之间请优先使用 SEGA官方串口协议
 [视频版教程点我](https://www.bilibili.com/video/BV1VQCUYyEGA/)
+
+请先自备能正常联网的游戏
 ***
+
+两种方式的差异：
+
 使用 *SEGA官方串口协议* 时所有行为逻辑与官方读卡器一致
 
 使用 *AimeIO* 时支持游戏内热插拔读卡器，读卡速度相比串口协议会稍快，但是部分行为受 *segatools* 限制无法正确实现：
@@ -15,4 +20,4 @@
 * 目前无法读取卡号**非510开头**的版本的`Banapass`：
   * 日本发行的旧版（非`Amusement IC`版本的）
   * 在海外发行的所有版本，包括国行
-* 部分 segatools 无法使用包括`Amusement IC`在内的所有 [Felica](https://zh.wikipedia.org/wiki/FeliCa) 卡片
+* 部分 segatools 无法使用包括`Amusement IC`在内的所有 [Felica](https://zh.wikipedia.org/wiki/FeliCa) 卡片，如果发生了请更换一份 segatools

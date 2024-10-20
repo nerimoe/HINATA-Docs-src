@@ -25,11 +25,11 @@ Lite版用户可以收到：
 使用 USB Type-C 数据线将HINATA与电脑相连。
 HINATA通电时会亮起黄色灯光，与电脑USB握手成功后会渐变为蓝色。
 HINATA Lite 通电时背面会有常亮的红色灯光，请不要在意
-![正确连接](<assets/connection.jpg>)
+![connection](<assets/connection.jpg>)
 
 此时在Windows的```设备管理器```中应该可以看到HINATA设备
 
-![设备管理器0](<assets/devmgr0.png>) ![设备管理器1](<assets/devmgr1.png>)
+![devmgr0](<assets/devmgr0.png>) ![devmgr1](<assets/devmgr1.png>)
 
 
 ### 2. 为赠送的卡片写入Aime卡号
