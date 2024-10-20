@@ -5,6 +5,7 @@
 * [AimeIO（基于segatools）](aimeio.md)
 
 两种方式之间请优先使用 SEGA官方串口协议
+[视频版教程点我](https://www.bilibili.com/video/BV1VQCUYyEGA/)
 ***
 使用 *SEGA官方串口协议* 时所有行为逻辑与官方读卡器一致
 
