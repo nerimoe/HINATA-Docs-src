@@ -1,5 +1,8 @@
 {
-    "engines": {
-      "node": "10.24.1"
-    }
+  "engines": {
+    "node": "10.24.1"
+  },
+  "dependencies": {
+    "gitbook-plugin-favicon": "0.0.2"
   }
+}

@@ -3,6 +3,15 @@
     "author" : "红月",
     "description" : "HINATA 使用说明",
     "langurage" : "zh-hans",
+    "plugins": [
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "favicon": {
+            "shortcut": "assets/icn/favicon_32.ico",
+            "bookmark": "assets/icn/favicon_32.ico"
+        }
+    },
     "links" : {
         "sidebar": {
             
