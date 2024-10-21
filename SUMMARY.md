@@ -6,6 +6,6 @@
   * [AimeIO连接](SEGA/aimeio.md)
   * [游戏内测试读卡器](SEGA/in_game_test.md)
   * [常见问题](SEGA/qa.md)
-* [KONAMI游戏使用方法]()
+* [KONAMI游戏使用方法](KONAMI/README.md)
 * [HINATA控制中心]()
 * [固件更新说明]()
