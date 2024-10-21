@@ -9,7 +9,7 @@ B站简介视频：[点我](https://www.bilibili.com/video/BV1Gi421i7ej/)
 
 **视频版说明书**：[点我](https://www.bilibili.com/video/BV1VQCUYyEGA/)
 
-售后群：[362419355](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UsIXEToqQiFhIiwZTJ8wAexth6r-v4rf&authKey=1RXOSjD3PBobR8neZ02S9wPpoqvuVcFaB2xiUTUFT3tQoxdpJEq7vHvM3vXbNqbA&noverify=0&group_code=362419355)
+售后群：[362419355](https://qm.qq.com/q/r6ptk9XsQ2)
 
 海外用户可以联系我的telegram：[@nerimoe](http://t.me/nerimoe)
 
@@ -44,5 +44,5 @@ HINATA Lite 通电时背面会有常亮的红色灯光，请不要在意
 ### 3. 开始配置游戏
 [SEGA游戏](SEGA/README.md)
 
-[KONAMI游戏]()
+[KONAMI游戏](KONAMI/README.md)
 

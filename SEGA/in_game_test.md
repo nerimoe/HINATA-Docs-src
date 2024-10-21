@@ -7,4 +7,4 @@
 ## 其他页面
 * [串口方式点我](serial.md)
 * [AimeIO方式点我](aimeio.md)
-* [KONAMI游戏设置]()
+* [KONAMI游戏设置](../KONAMI/README.md)

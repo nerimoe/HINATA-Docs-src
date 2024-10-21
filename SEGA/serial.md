@@ -53,6 +53,4 @@
 ## 其他页面
 * [AimeIO方式点我](aimeio.md)
 * [游戏内测试读卡器](in_game_test.md)
-* [KONAMI游戏设置]()
-
-
+* [KONAMI游戏设置](../KONAMI/README.md)
