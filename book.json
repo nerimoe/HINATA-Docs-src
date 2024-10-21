@@ -5,11 +5,7 @@
     "langurage" : "zh-hans",
     "links" : {
         "sidebar": {
-            "淘宝": "https://h5.m.taobao.com/awp/core/detail.htm?ft=t&id=764204902702",
-            "B站简介视频": "https://www.bilibili.com/video/BV1Gi421i7ej/",
-            "SEGA游戏视频说明书": "https://www.bilibili.com/video/BV1VQCUYyEGA/",
-            "QQ售后群": "https://qm.qq.com/q/r6ptk9XsQ2",
-            "文档repo": "https://github.com/nerimoe/HINATA-Docs-src"
+            
         },
         "sharing": {
             "google": false,

@@ -9,3 +9,10 @@
 * [KONAMI游戏使用方法](KONAMI/README.md)
 * [HINATA控制中心]()
 * [固件更新说明]()
+* ---
+* 外部链接
+  * [淘宝](https://h5.m.taobao.com/awp/core/detail.htm?ft=t&id=764204902702)
+  * [B站介绍](https://www.bilibili.com/video/BV1Gi421i7ej/)
+  * [SEGA游戏视频说明书](https://www.bilibili.com/video/BV1VQCUYyEGA/)
+  * [QQ售后群](https://qm.qq.com/q/r6ptk9XsQ2)
+  * [文档repo](https://github.com/nerimoe/HINATA-Docs-src)
