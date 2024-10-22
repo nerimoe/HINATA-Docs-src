@@ -4,7 +4,7 @@
 HINATA控制中心用于控制HINATA的各项设置以及写卡用，调整的设置不会存储在HINATA内，HINATA断电不会保存设置。但是控制中心会保存设置，HINATA重连回控制中心后会自动同步回上次设置。
 
 以后会重构控制中心以及让读卡器可以持久化设置。
-
+  
 [点我下载HINATA控制中心，中国大陆用户如果下载比较慢的话可以在售后群群文件下载](https://github.com/nerimoe/HINATA-release/releases/download/HINATA-2024090300/HINATA-Control-Panel-2024050400.7z)
 
 

@@ -30,8 +30,8 @@
    ![spicelight](assets/spicelight.png)
 
 3. iidx之类的有2p位的游戏会分为1p 2p共六个通道，绑定你有玩的p位，或者使用两个读卡器的时候可以都绑定
-4. 调整灯光亮度：在spicecfg内可以调整
-
+4. 调整灯光亮度：在 *spicecfg* > **Advanced** > `Light Brightness Adjustment`内可以调整
+![spicebrightness](assets/spicebrightness.png)
 ## 其他页面
 * [调整CARDIO读卡限制](../HCP/README.md)
 * [SEGA游戏设置](../SEGA/README.md)
