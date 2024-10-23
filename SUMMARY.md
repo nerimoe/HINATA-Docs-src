@@ -1,6 +1,6 @@
 # HINATA CARDREADER Manual
 
-* HINATA Manuel
+* HINATA Manual
 * ---
 * [介绍&初次使用](README.md)
 * [SEGA游戏使用方法](SEGA/README.md)
