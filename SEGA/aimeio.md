@@ -33,6 +33,6 @@ AimeIO依托于segatools对读卡器的hook，可以实现游戏内读卡器热�
 
 
 ## 其他页面
-* [串口方式点我](serial.md)
+* [串口方式连接SEGA游戏](serial.md)
 * [游戏内测试读卡器](in_game_test.md)
 * [KONAMI游戏设置](../KONAMI/README.md)
